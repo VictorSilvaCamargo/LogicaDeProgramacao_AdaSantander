@@ -1,4 +1,4 @@
-package Frutaria;
+package Aula02;
 
 public class Compra {
     private double total;

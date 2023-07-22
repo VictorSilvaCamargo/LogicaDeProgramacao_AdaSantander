@@ -1,4 +1,4 @@
-package Ada_Fahrenheit;
+package Aula01;
 
 import java.util.Scanner;
 

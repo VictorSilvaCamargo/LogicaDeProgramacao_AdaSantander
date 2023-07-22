@@ -1,4 +1,4 @@
-package OrdenarNumeros;
+package Aula02;
 
 import java.util.Arrays;
 
