@@ -15,3 +15,10 @@ enum Estado {
         return taxaImposto;
     }
 }
+
+
+
+
+
+
+
