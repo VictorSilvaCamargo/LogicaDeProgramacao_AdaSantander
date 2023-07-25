@@ -12,7 +12,7 @@ public class EX02 {
             System.out.println(valorProdutoFinal(250.10, "SP") == 280.112);
             valorProdutoFinal(250.10, "DF");
         } catch (EstadoInvalidoException e) {
-            System.out.println("Estado Inválido!");
+            System.out.println(e.getMessage());
         }
     }
 
