@@ -22,7 +22,7 @@ public class EX02 {
 
 
     public static void main(String[] args) {
-        System.out.println(multiplicar(5));
-        System.out.println(multiplicar2(5));
+        System.out.println(multiplicar(4));
+        System.out.println(multiplicar2(4));
     }
 }
